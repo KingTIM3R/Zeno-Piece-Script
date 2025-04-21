@@ -1,1 +1,1 @@
-local Rayfield = loadstring(game:HttpGet('L I N K'))()
+local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/KingTIM3R/Zeno-Piece-Script/refs/heads/main/main.lua'))()
